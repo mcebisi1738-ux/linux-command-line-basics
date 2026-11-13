@@ -59,4 +59,3 @@ cat /app/logs/server.bak
 Observed configuration permissions in my session: -rw-r--r--.
 Final log filename: server.bak. Final log contents: Started.
 
-Note: mv renames the original; it does not keep a separate copy.
